@@ -1,7 +1,7 @@
 # Ether Steem
 
 
-This is first official update of [Ether Steem](https://ethersteem.com) project progress. Here is list of post with some details about this project.
+This is official update of [Ether Steem](https://ethersteem.com) project progress. Here is list of post with some details about this project so far.
 1) [STEEM to ERC20 Token Exchange! Developers Needed! [Closed]](https://steemit.com/dev/@fbslo/steem-to-erc20-token-exchange-developers-needed)
 2) [Ether Steem Need New Logo! [20 STEEM Bounty] [CLOSED]](https://steemit.com/ethersteem/@fbslo/ether-steem-need-new-logo-10-steem-bounty)
 
@@ -24,31 +24,25 @@ ETHSTEEM (Ether Steem) ERC20 token was created on Ethereum main net.
 
 Currently, all 300,000,000 token are in my wallet. Soon I will move 295,000,000 ETHSTEEM to cold wallet and remaining 5,000,000 ETHSTEEM to hot wallet.
 
-* ***Cold wallet address: [0x19327bfB111C8eEA0D5C2e74c928bD6B854FF41b](https://etherscan.io/address/0x19327bfB111C8eEA0D5C2e74c928bD6B854FF41b)***
+***Cold wallet address: [0x19327bfB111C8eEA0D5C2e74c928bD6B854FF41b](https://etherscan.io/address/0x19327bfB111C8eEA0D5C2e74c928bD6B854FF41b)***
 
-<br>
-
-* ***Hot wallet address: [0x2b4Ea9ebC3CE38Bf2Acba04a1211928a1b352b35](https://etherscan.io/address/0x2b4Ea9ebC3CE38Bf2Acba04a1211928a1b352b35)***
+***Hot wallet address: [0x2b4Ea9ebC3CE38Bf2Acba04a1211928a1b352b35](https://etherscan.io/address/0x2b4Ea9ebC3CE38Bf2Acba04a1211928a1b352b35)***
 
 Other Ethereum addresses associated with Ether Steem projects are:
 
-* ***My (@fbslo) personal wallet: [0x3693f7449bd461f74975d571e7e3bc031ef73586](https://etherscan.io/address/0x3693f7449bd461f74975d571e7e3bc031ef73586)***
+***My (@fbslo) personal wallet: [0x3693f7449bd461f74975d571e7e3bc031ef73586](https://etherscan.io/address/0x3693f7449bd461f74975d571e7e3bc031ef73586)***
 
-<br>
 
-* ***Testing address: [0x1f979d06b999d058a6a950452260beacf2f9d903](https://etherscan.io/address/0x1f979d06b999d058a6a950452260beacf2f9d903)***
+ ***Testing address: [0x1f979d06b999d058a6a950452260beacf2f9d903](https://etherscan.io/address/0x1f979d06b999d058a6a950452260beacf2f9d903)***
 
 Steem accounts associated with Ether Steem projects are:
 
-<br>
 
-* ***Official account & wallet: [@ethersteem](https://steemd.com/@ethersteem)***
+***Official account & wallet: [@ethersteem](https://steemd.com/@ethersteem)***
 
-<br>
 
-* ***"Bank" account: [@ethersteem.pay](https://steemd.com/@ethersteem.pay)***
+***"Bank" account: [@ethersteem.pay](https://steemd.com/@ethersteem.pay)***
 
-<br>
 
-* ***Extra account: [@ethsteem](https://steemd.com/@ethsteem)***
+***Extra account: [@ethsteem](https://steemd.com/@ethsteem)***
 
