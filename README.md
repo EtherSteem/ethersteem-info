@@ -48,5 +48,5 @@ Steem accounts associated with Ether Steem projects are:
 
 ---
 
-### UPDATE: Main code repo was set to private, since I started working on it as Wrapped Hive and old code does not follow best coding practices (It's total mess). If you would like to contribute, send me discord DM and I will give you access: fbslo#8470
+### UPDATE: Main code repo was set to private, since I started working on it as Wrapped Hive and old code does not follow best coding practices (It's total mess and could be dangerous if used without update). If you would like to contribute, send me discord DM and I will give you access: fbslo#8470
 
