@@ -46,3 +46,7 @@ Steem accounts associated with Ether Steem projects are:
 
 ***Extra account: [@ethsteem](https://steemd.com/@ethsteem)***
 
+---
+
+### UPDATE: Main code repo was set to private, since I started working on it as Wrapped Hive. If you would like to contribute, send me discord DM and I will give you access: fbslo#8470
+
